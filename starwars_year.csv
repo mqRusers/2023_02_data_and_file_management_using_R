@@ -1,0 +1,61 @@
+ID,birth_year,sex,gender,species
+Luke Skywalker,19,male,masculine,Human
+C-3PO,112,none,masculine,Droid
+R2-D2,33,none,masculine,Droid
+Darth Vader,41.9,male,masculine,Human
+Leia Organa,19,female,feminine,Human
+Owen Lars,52,male,masculine,Human
+Beru Whitesun lars,47,female,feminine,Human
+R5-D4,NA,none,masculine,Droid
+Biggs Darklighter,24,male,masculine,Human
+Obi-Wan Kenobi,57,male,masculine,Human
+Anakin Skywalker,41.9,male,masculine,Human
+Wilhuff Tarkin,64,male,masculine,Human
+Chewbacca,200,male,masculine,Wookiee
+Han Solo,29,male,masculine,Human
+Greedo,44,male,masculine,Rodian
+Jabba Desilijic Tiure,600,hermaphroditic,masculine,Hutt
+Wedge Antilles,21,male,masculine,Human
+Jek Tono Porkins,NA,male,masculine,Human
+Yoda,896,male,masculine,Yoda's species
+Palpatine,82,male,masculine,Human
+Boba Fett,31.5,male,masculine,Human
+IG-88,15,none,masculine,Droid
+Bossk,53,male,masculine,Trandoshan
+Lando Calrissian,31,male,masculine,Human
+Lobot,37,male,masculine,Human
+Ackbar,41,male,masculine,Mon Calamari
+Mon Mothma,48,female,feminine,Human
+Arvel Crynyd,NA,male,masculine,Human
+Wicket Systri Warrick,8,male,masculine,Ewok
+Nien Nunb,NA,male,masculine,Sullustan
+Qui-Gon Jinn,92,male,masculine,Human
+Nute Gunray,NA,male,masculine,Neimodian
+Finis Valorum,91,male,masculine,Human
+Jar Jar Binks,52,male,masculine,Gungan
+Roos Tarpals,NA,male,masculine,Gungan
+Rugor Nass,NA,male,masculine,Gungan
+Ric Olié,NA,NA,NA,NA
+Watto,NA,male,masculine,Toydarian
+Sebulba,NA,male,masculine,Dug
+Quarsh Panaka,62,NA,NA,NA
+Shmi Skywalker,72,female,feminine,Human
+Darth Maul,54,male,masculine,Zabrak
+Bib Fortuna,NA,male,masculine,Twi'lek
+Ayla Secura,48,female,feminine,Twi'lek
+Dud Bolt,NA,male,masculine,Vulptereen
+Gasgano,NA,male,masculine,Xexto
+Ben Quadinaros,NA,male,masculine,Toong
+Mace Windu,72,male,masculine,Human
+Ki-Adi-Mundi,92,male,masculine,Cerean
+Kit Fisto,NA,male,masculine,Nautolan
+Eeth Koth,NA,male,masculine,Zabrak
+Adi Gallia,NA,female,feminine,Tholothian
+Saesee Tiin,NA,male,masculine,Iktotchi
+Yarael Poof,NA,male,masculine,Quermian
+Plo Koon,22,male,masculine,Kel Dor
+Bail Prestor Organa,67,male,masculine,Human
+Jango Fett,66,male,masculine,Human
+Zam Wesell,NA,female,feminine,Clawdite
+Dexter Jettster,NA,male,masculine,Besalisk
+Lama Su,NA,male,masculine,Kaminoan
