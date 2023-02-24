@@ -1,5 +1,5 @@
 # 2023_02_data_and_file_management_using_R
-An introduction to Data and File Management using R
+**An introduction to Data and File Management using R**
 
 This workshop covers basic but the essential steps to read, understand and visualise the data before
 performing any downstream task. This hands-on training consists of learning R packages and functions to
@@ -9,7 +9,7 @@ using ggplot2. The workshop will give the participants an opportunity to learn s
 widely used data manipulation and visualisation R packages such as Dplyr, Tidyverse and ggplot2.
 
 
-Presenter: 
+**Presenter:**
  
 Dr Zainab Noor is a Senior Research Officer in ProCan at Children’s Medical Research Institute. She acquired her Ph.D. in Chemistry and Biomolecular Sciences from Macquarie University, Sydney. Her previous research focused on cancer proteomics, specifically the application of bioinformatics and data science techniques to explore novel or little-known proteins in human cancer. 
   
